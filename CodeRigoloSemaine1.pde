@@ -5,7 +5,7 @@ void settings(){
 }
 
 void setup(){
-  background(255,200,0);
+  background(255,192,203);
   noLoop();
 }
 
